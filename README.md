@@ -1,34 +1,43 @@
-<h1 align="center">Hi 👋, I'm Bhuvnesh Saini</h1>
-<h3 align="center">MCA Student | Flutter & MERN Stack Developer | Tech Enthusiast</h3>
+<h1 align="center">Bhuvnesh Saini</h1>
+<h3 align="center">
+MERN Stack Developer | Mobile & Web Application Engineer
+</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:06b6d4&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=28&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0284c7&height=180&section=header&text=Welcome%20to%20my%20GitHub%20Profile&fontSize=28&fontColor=ffffff" />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 Professional Summary
 
-- 🎓 MCA (3rd Semester) Student  
-- 📱 Flutter Mobile Application Developer  
-- 🌐 MERN Stack Developer (MongoDB, Express, React, Node.js)  
-- 🚀 Currently working on **GuideMe – Travel & Guide Booking Application**  
-- 🔐 Experience with **Clerk Authentication**, **Firebase**, **MongoDB**  
-- 📍 Interested in **Mobile Apps, Web Development, AI & IoT**  
-- 💡 I believe in clean code, scalability, and continuous learning  
+I am a motivated **Master of Computer Applications (MCA)** student with hands-on experience in **MERN stack web applications**. I focus on building **scalable, maintainable, and user-centric applications** using modern technologies. I am continuously improving my skills through real-world projects and academic learning, with a strong interest in backend systems, authentication, and emerging technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 Education & Focus
 
-### 💻 Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+- Master of Computer Applications (MCA)
+- Bachelor of Computer Application(BCA) with the specialization of Mobile Application and Web Technology [With Inurture Education Solutions]
+- Core focus areas:
+  - Full-Stack Web Development (MERN)
+  - Mobile Application Development (Flutter)
+  - WordPress Development
+  - Authentication & Databases
+  - Clean Architecture & Scalable Systems
+
+---
+
+## 🛠 Technical Skills
+
+### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
-### 🚀 Frameworks & Tools
+### Frameworks, Libraries & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
@@ -39,23 +48,28 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Key Projects
 
-### 📌 GuideMe – Travel & Guide Booking App
-- 📱 Flutter + Node.js + MongoDB
-- 🧭 Location-based guide discovery
-- 👤 User & Guider authentication using Clerk
-- 📅 Booking & request system  
-🔗 Repository: *Pinned on profile*
+### **GuideMe – Travel & Guide Booking Platform**
+- Cross-platform mobile application built with **Flutter**
+- Backend powered by **Node.js & MongoDB**
+- Secure authentication using **Clerk**
+- Location-based guide discovery and booking workflow
+- Designed with scalability and modular architecture in mind  
 
-### 📌 Travel Advisor Web Application
-- 🌐 React.js + Google Maps API
-- 🏨 Nearby hotels, restaurants & tourist places
-- ⭐ Ratings & reviews with map view  
+📌 *Pinned repository on profile*
 
 ---
 
-## 📊 GitHub Stats
+### **Travel Advisor Web Application**
+- Built using **React.js**
+- Integrated **Google Maps API** for real-time location services
+- Displays nearby hotels, restaurants, and tourist attractions
+- Includes ratings, reviews, and interactive map views  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhuvnesh63&show_icons=true&theme=tokyonight" height="165"/>
@@ -64,7 +78,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements & Activity
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bhuvnesh63&theme=onedark&row=1&column=6"/>
@@ -72,23 +86,24 @@
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Professional Links
 
 <p align="left">
   <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
-## ✨ Quote I Believe In
+## 📌 Professional Philosophy
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *“First, solve the problem. Then, write the code.”*  
+> — John Johnson
 
 ---
 
-⭐ **If you like my work, consider starring my repositories.**
+⭐ If you find my work valuable, feel free to explore and star my repositories.
