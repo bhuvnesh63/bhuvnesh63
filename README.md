@@ -1,4 +1,4 @@
-<h1 align="center">Bhuvnesh Saini</h1>
+<h1 align="center">BHUVNESH SAINI</h1>
 <h3 align="center">
 MERN Stack Developer | Mobile & Web Application Engineer
 </h3>
@@ -11,7 +11,7 @@ MERN Stack Developer | Mobile & Web Application Engineer
 
 ## 👨‍💻 Professional Summary
 
-I am a motivated **Master of Computer Applications (MCA)** student with hands-on experience in **MERN stack web applications**. I focus on building **scalable, maintainable, and user-centric applications** using modern technologies. I am continuously improving my skills through real-world projects and academic learning, with a strong interest in backend systems, authentication, and emerging technologies.
+I am a motivated **Master of Computer Applications (MCA)** with hands-on experience in **MERN stack web applications**. I focus on building **scalable, maintainable, and user-centric applications** using modern technologies. I am continuously improving my skills through real-world projects and academic learning, with a strong interest in backend systems, authentication, and emerging technologies.
 
 ---
 
@@ -38,10 +38,10 @@ I am a motivated **Master of Computer Applications (MCA)** student with hands-on
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
 ### Frameworks, Libraries & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code)
